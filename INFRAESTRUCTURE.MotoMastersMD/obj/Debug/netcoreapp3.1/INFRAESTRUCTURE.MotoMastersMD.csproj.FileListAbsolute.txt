@@ -1,0 +1,48 @@
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.deps.json
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.runtimeconfig.json
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.runtimeconfig.dev.json
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\CORE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\CORE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.AssemblyReference.cache
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.AssemblyInfoInputs.cache
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.AssemblyInfo.cs
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.CoreCompileInputs.cache
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.CopyComplete
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.genruntimeconfig.cache
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.deps.json
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.runtimeconfig.json
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.runtimeconfig.dev.json
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\CORE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\CORE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.AssemblyReference.cache
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.AssemblyInfoInputs.cache
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.AssemblyInfo.cs
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.CoreCompileInputs.cache
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.CopyComplete
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\BACK MotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.genruntimeconfig.cache
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.deps.json
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.runtimeconfig.json
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.runtimeconfig.dev.json
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\CORE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\bin\Debug\netcoreapp3.1\CORE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.AssemblyReference.cache
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.AssemblyInfoInputs.cache
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.AssemblyInfo.cs
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.CoreCompileInputs.cache
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.csproj.CopyComplete
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.dll
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.pdb
+D:\Programas\VS 2022\repos\MotoMastersMD\BACKMotoMastersDM\INFRAESTRUCTURE.MotoMastersMD\obj\Debug\netcoreapp3.1\INFRAESTRUCTURE.MotoMastersMD.genruntimeconfig.cache
