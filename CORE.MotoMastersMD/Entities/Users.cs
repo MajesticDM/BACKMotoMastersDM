@@ -18,7 +18,6 @@ namespace CORE.MotoMastersMD.Entities
         public DateTime CreationDate { get; set; }
         public bool Status { get; set; }
         public byte[] Photo { get; set; }
-
         public virtual PersonalData IdxPersonalDataNavigation { get; set; }
         public virtual UsersType IdxUserTypeNavigation { get; set; }
         public virtual ICollection<Appointments> Appointments { get; set; }

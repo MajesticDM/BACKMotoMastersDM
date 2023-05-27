@@ -21,13 +21,12 @@ namespace API.MotoMastersMD.Controllers
                 _context= context; 
             _mapper = mapper;
         }
-
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var MMDS = await _context.GetUsers();
-            var MMD = _mapper.Map<IEnumerable<UsersDTO>>(MMDS);
-            return Ok(MMD);
+            var Users = await _context.GetUsers();
+            var User = _mapper.Map<IEnumerable<UsersDTO>>(Users);
+            return Ok(User);
         }
 
         [HttpGet("{id}")]
@@ -50,22 +49,6 @@ namespace API.MotoMastersMD.Controllers
         {
             var UWU = _mapper.Map<Users>(dTOs);
             await _context.Post(UWU);
-            return Ok(UWU);
-        }
-
-        [HttpPut]
-        public async Task<IActionResult> Actualizar(int Id, UsersDTO OWO)
-        {
-            var UWU = _mapper.Map<Users>(OWO);
-            UWU.UserId = Id;
-            await _context.Update(UWU);
-            return Ok(UWU);
-        }
-
-        [HttpDelete]
-        public async Task<IActionResult> Eliminar(int Id)
-        {
-            var UWU = await _context.Delete(Id);
             return Ok(UWU);
         }
     }

@@ -1,10 +1,16 @@
 ﻿using CORE.MotoMastersMD.Entities;
+using INFRAESTRUCTURE.MotoMastersMD.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.IdentityModel.Tokens.Jwt;
+using System.Linq;
 using System.Security.Claims;
 using System.Text;
+using System.Threading.Tasks;
+using CORE.MotoMastersMD.Interfaces;
 
 namespace API.MotoMastersMD.Controllers
 {
@@ -12,25 +18,23 @@ namespace API.MotoMastersMD.Controllers
     [ApiController]
     public class TokenController : ControllerBase
     {
-        private readonly Microsoft.Extensions.Configuration.IConfiguration _configuration;
-        public TokenController(Microsoft.Extensions.Configuration.IConfiguration configuration)
+        private readonly IConfiguration _configuration;
+        private readonly ISecurity _security;
+        public TokenController(IConfiguration configuration, ISecurity security)
         {
             _configuration = configuration;
+            _security = security;
         }
         [HttpPost]
-        public IActionResult Authentication(Users Login)
+        public async Task<IActionResult> Authentication(Security login)
         {
-            if (IsValidUser(Login))
+            var users = await _security.GetLoginByCredential(login);
+            if(users != null)
             {
                 var token = GenerateToken();
                 return Ok(new { token });
             }
-            return NotFound();
-        }
-
-        private bool IsValidUser(Users login)
-        {
-            return true;
+            return NotFound("Usuario no encontrado");
         }
         private string GenerateToken()
         {
@@ -44,9 +48,9 @@ namespace API.MotoMastersMD.Controllers
             //Claims
             var claims = new[]
             {
-                new Claim(ClaimTypes.Name, "Daniel Moreno"),
-                new Claim(ClaimTypes.Email, "morenodaniel747@gmail.com"),
-                new Claim(ClaimTypes.Role, "Admin"),
+                new Claim(ClaimTypes.Email, "sadasdasd"),
+                new Claim(ClaimTypes.Email, "sadasdasd"),
+                new Claim(ClaimTypes.Email, "sadasdasd"),
             };
 
             //Payload
@@ -56,7 +60,7 @@ namespace API.MotoMastersMD.Controllers
                 _configuration["Authentication:Audience"],
                 claims,
                 DateTime.Now,
-                DateTime.UtcNow.AddMinutes(35)
+                DateTime.UtcNow.AddMinutes(10)
             );
 
             //Generate token

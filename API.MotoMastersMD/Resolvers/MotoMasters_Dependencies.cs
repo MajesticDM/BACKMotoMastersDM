@@ -1,6 +1,9 @@
-﻿using CORE.MotoMastersMD.Interfaces;
+﻿using CORE.MotoMastersMD.Entities;
+using CORE.MotoMastersMD.Interfaces;
 using INFRAESTRUCTURE.MotoMastersMD.Repositories;
 using Microsoft.Extensions.DependencyInjection;
+using SocialMedia.Infrastructure.Repositories;
+using System.Reflection.Metadata;
 
 namespace API.MotoMastersMD.Resolvers
 {
@@ -19,6 +22,7 @@ namespace API.MotoMastersMD.Resolvers
             services.AddTransient<ISoldProducts, SoldProductsRepo>();
             services.AddTransient<IUsers, UsersRepo>();
             services.AddTransient<IUsersType, UsersTypeRepo>();
+            services.AddTransient<ISecurity, SecurityRepo>();
         }
     }
 }

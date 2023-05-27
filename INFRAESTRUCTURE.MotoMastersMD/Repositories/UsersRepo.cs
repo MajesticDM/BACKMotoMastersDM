@@ -3,6 +3,7 @@ using CORE.MotoMastersMD.Interfaces;
 using INFRAESTRUCTURE.MotoMastersMD.Data;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace INFRAESTRUCTURE.MotoMastersMD.Repositories
@@ -14,7 +15,6 @@ namespace INFRAESTRUCTURE.MotoMastersMD.Repositories
         {
             _context = context;
         }
-
         public async Task<IEnumerable<Users>> GetUsers()
         {
             var MMD = await _context.Users.ToListAsync();
@@ -37,14 +37,13 @@ namespace INFRAESTRUCTURE.MotoMastersMD.Repositories
         {
             var dat = await GetxId((int)MMD.UserId);
 
-            dat.IdxUserType = MMD.IdxUserType; 
+            dat.IdxUserType = MMD.IdxUserType;
             dat.IdxPersonalData = MMD.IdxPersonalData;
             dat.UserName = MMD.UserName;
             dat.Password = MMD.Password;
-            dat.CreationDate = MMD.CreationDate;
-            dat.Status = MMD.Status;
             dat.Photo = MMD.Photo;
-            
+            dat.Status = MMD.Status;
+
             int rows = await _context.SaveChangesAsync();
             return rows > 0;
         }
