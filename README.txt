@@ -12,3 +12,8 @@ Daniel Moreno, SENA, 2023
 
 05/26/2023: Hemos terminado de crear nuestra Rest Api, ahora cuenta con código organizado, seguridad y base de datos, recuerda que para aumentar la seguridad, se recomiendo que la secret key que tenemos por default en nuestro appsettings.json, debe ser dada por un servidor u ocultada, ya que de la forma que está implementada, es un riesgo, ya que cualquiera podría tomarla. Esta llave debería ser poseída por un grupo en específico o estar en un servidor al cual hagas una consulta y validar si la llave es correcta o no. 
 Este repositorio quedará habilitado, ahora empezaremos con nuestro Front-end, gracias por leer.
+
+Daniel Moreno, SENA, 2024
+
+05/11/2024: Se suben últimos cambios con respecto a JWT, patrón utilizado: Patrón Repositorio.
+Aparir de este momento el proyecto queda completamente listo para usar desde el Front-end.
